@@ -1,0 +1,19 @@
+{
+  "name": "marquee",
+  "version": "0.0.0",
+  "description": "A very simple marquee plugin for HTML text inputs!",
+  "main": "gammamarquee.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gammasoft/marquee.git"
+  },
+  "author": "Renato Gama <renato@gammasoft.com.br>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gammasoft/marquee/issues"
+  },
+  "homepage": "https://github.com/gammasoft/marquee"
+}
