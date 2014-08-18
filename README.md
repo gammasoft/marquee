@@ -4,7 +4,7 @@ A very simple marquee plugin for HTML text inputs!
 
 ### Demo
 
-[Check this fiddle out!]()
+[Check this fiddle out!](http://jsbin.com/qehuve/3/edit)
 
 ### Usage
 ```javascript
@@ -14,5 +14,11 @@ $('.marquee').marquee({
 	direction: 'left' //can be 'left' or right
 });
 ```
+
+### Installation
+```bash
+bower install --save marquee
+```
+
 
 ### License MIT
